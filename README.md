@@ -17,7 +17,7 @@ All information and code is provided solely for educational purposes and/or test
 
 ## 📐 Prerequisites
 
-- jdk-8u181-linux-x64
+- jdk-8u181-linux-x64 (to build image)
 - Docker
 
 ## 🖥 📱 💽 Tech Stack
