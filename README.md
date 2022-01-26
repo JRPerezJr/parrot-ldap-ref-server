@@ -1,4 +1,4 @@
-<h1 align="center">LDAP server Docker container for THM Solar room</h1>
+<h1 align="center">LDAP reference server Docker container for THM Solar room</h1>
 
 <br>
 
