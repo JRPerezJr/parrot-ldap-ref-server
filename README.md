@@ -2,6 +2,9 @@
 
 <br>
 
+## Demo
+![demo](https://user-images.githubusercontent.com/19915910/151475417-96ff65e6-2391-480d-ac15-ae358d307926.gif)
+
 <p>
   <a href="https://github.com/JRPerezJr/parrot-ldap-ref-server/blob/main/license.txt" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
