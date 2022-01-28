@@ -2,9 +2,6 @@
 
 <br>
 
-## Demo
-![demo](https://user-images.githubusercontent.com/19915910/151475417-96ff65e6-2391-480d-ac15-ae358d307926.gif)
-
 <p>
   <a href="https://github.com/JRPerezJr/parrot-ldap-ref-server/blob/main/license.txt" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -15,6 +12,12 @@
 
 > A CTF challenge tool for the Solar room. 
 > This container will host your LDAP reference server, write the Java code and compile it with your IP and NetCat listener port, and then host it on a Python Simple HTTP server. I have included a simple program to handle the tasks quickly so you can focus on the next sections of the room. 
+
+<br>
+
+## Demo
+![demo](https://user-images.githubusercontent.com/19915910/151475417-96ff65e6-2391-480d-ac15-ae358d307926.gif)
+
 
 ## Disclaimer
 All information and code is provided solely for educational purposes and/or testing your own systems for these vulnerabilities.
