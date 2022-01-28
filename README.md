@@ -11,7 +11,7 @@
 <br>
 
 > A CTF challenge tool for the Solar room. 
-> This container will host your LDAP reference server, write the Java code and compile it with your IP and NetCat listener port, and then host it on a Python Simple HTTP server. I have included a simple program to handle the tasks quickly so you can focus on next room tasks. 
+> This container will host your LDAP reference server, write the Java code and compile it with your IP and NetCat listener port, and then host it on a Python Simple HTTP server. I have included a simple program to handle the tasks quickly so you can focus on the next sections of the room. 
 
 ## Disclaimer
 All information and code is provided solely for educational purposes and/or testing your own systems for these vulnerabilities.
