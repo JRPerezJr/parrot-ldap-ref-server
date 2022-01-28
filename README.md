@@ -10,7 +10,7 @@
 
 <br>
 
-> A CTF challenge tool for the Solar room. 
+> A CTF challenge tool for the [Solar](https://www.tryhackme.com/room/solar) room. 
 > This container will host your LDAP reference server, write the Java code and compile it with your IP and NetCat listener port, and then host it on a Python Simple HTTP server. I have included a simple program to handle the tasks quickly so you can focus on the next sections of the room. 
 
 <br>
